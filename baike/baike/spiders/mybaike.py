@@ -4,7 +4,7 @@ from  scrapy_redis.spiders import RedisCrawlSpider
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 
-from ..items import *
+from baike.items import *
 
 
 class MybaikeSpider(RedisCrawlSpider):
