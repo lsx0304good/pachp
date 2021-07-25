@@ -1,0 +1,163 @@
+{
+	"status": 0,
+	"message": "OK",
+	"data": {
+		"mid": "xn2k9QALWvg418MZ",
+		"appId": 1,
+		"resourceTarget": "selfhost",
+		"type": "video",
+		"private": 0,
+		"title": "影",
+		"cover": "https://cs.xinpianchang.com/uploadfile/article/2021/07/13/60ed0b60b29c4.jpeg",
+		"description": "机缘巧合在命题下来后，结识了男主人公小狼，刚开始他向我们介绍自己是绳缚爱好者，当他娓娓道来之后，这个爱好背后的故事却震撼到了我们，儿时的伤口被扒开时，他眼中泛着泪光，于是我们决定写下这个故事。童年本应该是无虑的，而世间事并不能尽人意，上一辈遗留下的阴影溶进了血液，想逃离却逃不掉。故事的表现手法稍有些露骨，童年父母用演员部分身体去刻画，代表主人公不想去回忆全部，希望用这个赤淋淋的故事警醒所有人，别让孩子成为那个你最不想成为的人。",
+		"duration": 568,
+		"danmaku": false,
+		"status": "transcoded",
+		"categories": ["剧情短片", "家庭", "剧情短片", "人生"],
+		"keywords": ["成长", "家暴", "家庭", "教育", "剧情短片", "感悟", "单亲"],
+		"resource": {
+			"progressive": [{
+				"resourceId": 8138644,
+				"vendor": "ksyun",
+				"bucket": "xpc-bj",
+				"profile": "超清 2160p",
+				"quality": "4k",
+				"mime": "video/mp4",
+				"bitrate": 14699223,
+				"fps": "30000/1001",
+				"codecName": "h264 / aac",
+				"codedWidth": 3840,
+				"codedHeight": 2160,
+				"filesize": 1044475377,
+				"width": 3840,
+				"height": 2160,
+				"url": "https://ks-xpc4.xpccdn.com/44293179-739d-40bb-9e1d-f54de736f2f4.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=xAsT4ZRdAsqP5FIUB%2F4cGY7kFUE%3D",
+				"backupUrl": "https://ks-xpc4.xpccdn.com/44293179-739d-40bb-9e1d-f54de736f2f4.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=xAsT4ZRdAsqP5FIUB%2F4cGY7kFUE%3D"
+			}, {
+				"resourceId": 8138536,
+				"vendor": "ksyun",
+				"bucket": "xpc-bj",
+				"profile": "超清 1440p",
+				"quality": "2k",
+				"mime": "video/mp4",
+				"bitrate": 6062448,
+				"fps": "30000/1001",
+				"codecName": "h264 / aac",
+				"codedWidth": 2560,
+				"codedHeight": 1440,
+				"filesize": 430776361,
+				"width": 2560,
+				"height": 1440,
+				"url": "https://ks-xpc4.xpccdn.com/2688b9e0-019b-451f-aaf3-e0abeda473a1.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=e2hPX7sQquxw3gErFtH5caHX1dA%3D",
+				"backupUrl": "https://ks-xpc4.xpccdn.com/2688b9e0-019b-451f-aaf3-e0abeda473a1.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=e2hPX7sQquxw3gErFtH5caHX1dA%3D"
+			}, {
+				"resourceId": 8138503,
+				"vendor": "ksyun",
+				"bucket": "xpc-bj",
+				"profile": "高清 1080p",
+				"quality": "1080p",
+				"mime": "video/mp4",
+				"bitrate": 3553253,
+				"fps": "30000/1001",
+				"codecName": "h264 / aac",
+				"codedWidth": 1920,
+				"codedHeight": 1088,
+				"filesize": 252481772,
+				"width": 1920,
+				"height": 1080,
+				"url": "https://ks-xpc4.xpccdn.com/b6416e75-49e6-487e-9267-a5722183d231.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=WvQaPV0MMmmlG2DoAlr8wDLooDg%3D",
+				"backupUrl": "https://ks-xpc4.xpccdn.com/b6416e75-49e6-487e-9267-a5722183d231.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=WvQaPV0MMmmlG2DoAlr8wDLooDg%3D"
+			}, {
+				"resourceId": 8138489,
+				"vendor": "ksyun",
+				"bucket": "xpc-bj",
+				"profile": "标清 720p",
+				"quality": "720p",
+				"mime": "video/mp4",
+				"bitrate": 1880791,
+				"fps": "30000/1001",
+				"codecName": "h264 / aac",
+				"codedWidth": 1280,
+				"codedHeight": 720,
+				"filesize": 133642430,
+				"width": 1280,
+				"height": 720,
+				"url": "https://ks-xpc4.xpccdn.com/3c2bfebe-5d19-48c7-8685-636086cd00a5.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=wlLVgR5kKQmSmesHyXHlLCn47ow%3D",
+				"backupUrl": "https://ks-xpc4.xpccdn.com/3c2bfebe-5d19-48c7-8685-636086cd00a5.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=wlLVgR5kKQmSmesHyXHlLCn47ow%3D"
+			}, {
+				"resourceId": 8138484,
+				"vendor": "ksyun",
+				"bucket": "xpc-bj",
+				"profile": "清晰 540p",
+				"quality": "540p",
+				"mime": "video/mp4",
+				"bitrate": 1160909,
+				"fps": "30000/1001",
+				"codecName": "h264 / aac",
+				"codedWidth": 960,
+				"codedHeight": 544,
+				"filesize": 82490136,
+				"width": 960,
+				"height": 540,
+				"url": "https://ks-xpc4.xpccdn.com/2f976a1b-2e96-4179-95d6-f28cd0efa210.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=A%2Fbr8UeqMzhlxe2X4arQhytUnAQ%3D",
+				"backupUrl": "https://ks-xpc4.xpccdn.com/2f976a1b-2e96-4179-95d6-f28cd0efa210.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=A%2Fbr8UeqMzhlxe2X4arQhytUnAQ%3D"
+			}, {
+				"resourceId": 8138470,
+				"vendor": "ksyun",
+				"bucket": "xpc-bj",
+				"profile": "流畅 360p",
+				"quality": "360p",
+				"mime": "video/mp4",
+				"bitrate": 271047,
+				"fps": "30000/1001",
+				"codecName": "h264 / aac",
+				"codedWidth": 640,
+				"codedHeight": 368,
+				"filesize": 19259695,
+				"width": 640,
+				"height": 360,
+				"url": "https://ks-xpc4.xpccdn.com/189f017c-6573-4052-8146-10125d0f6de6.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=tXikjTFFdgRjsYhYgtegqStbhYE%3D",
+				"backupUrl": "https://ks-xpc4.xpccdn.com/189f017c-6573-4052-8146-10125d0f6de6.mp4?Expires=1627225793\u0026KSSAccessKeyId=AKLTI3rublvTSVG0Z3itRWBsPA\u0026Signature=tXikjTFFdgRjsYhYgtegqStbhYE%3D"
+			}],
+			"sprite": {
+				"interval": 6,
+				"subImageWidth": 200,
+				"subImageHeight": 112.5,
+				"matrixWidth": 10,
+				"matrixHeight": 10,
+				"images": ["https://ks-xpc4.xpccdn.com/c6fbabc4-c58b-4a58-8a77-bc2e86f2caec/snapshot-00000.jpg"]
+			},
+			"snapshot": [{
+				"second": 1,
+				"url": "https://ks-xpc4.xpccdn.com/454d0748-ef3a-4fa1-8258-64e81e065c9c.jpeg"
+			}]
+		},
+		"recommend": [{
+			"title": "非正式数据",
+			"url": "https://cdn-video.vmovier.com/55c72b3974de9.mp4"
+		}],
+		"owner": {
+			"id": 10053362,
+			"webUrl": "https://www.xinpianchang.com/a10053362",
+			"username": "刘枷宏",
+			"avatar": "https://oss-xpc0.xpccdn.com/passport/avatar/10053362/2020/6/5edc671f069d9.jpg",
+			"about": "电影制片人、执行制片人、制片主任\nSTANDARD制片团队学习使用工业化制片系统",
+			"verifyDescription": "",
+			"authorType": 2,
+			"occupation": "",
+			"vipStatus": 0,
+			"userGroups": [{
+				"id": 2,
+				"group_name": "新片场用户一组",
+				"group_code": "XPC001"
+			}]
+		},
+		"deviceId": "60fd5a1aa1498"
+	}
+
+}{
+	"mode": "full",
+	"isActive": false
+}
+
+
